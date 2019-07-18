@@ -1,0 +1,25 @@
+header{
+  color:red;
+}
+header h1{
+  text-decoration:underline;
+}
+
+body{
+  border:1px solid black
+}
+ul li{
+ background-color:pink;
+  display:inline-block;
+}
+.skills{
+  background-color: yellow;
+  display:inline;
+}
+#edu{
+  background-color: red;
+  display:inline;
+}
+input:hover{
+  background-color:yellow;
+}
